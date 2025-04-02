@@ -1,6 +1,6 @@
 ## Overview
 
-This repository contains supplementary materials for our study I and II.
+This repository contains supplementary materials for our Study I and Study II.
 
 ---
 
