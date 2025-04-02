@@ -1,6 +1,6 @@
 ## Overview
 
-This repository contains supplementary materials for our studies on password strength evaluation and user perception.
+This repository contains supplementary materials for our study I and II.
 
 ---
 
